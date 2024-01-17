@@ -5,7 +5,7 @@
         <company>Big rolls</company>
         <url>http://bigrolls.xyz</url>
         <platform>Tilda Publishing</platform>
-        <version>1.0</version>
+        <version>2.0</version>
         <currencies>
             <currency id="RUB" rate="1" />
         </currencies>
@@ -20,9 +20,7 @@
                 <description>
                     <![CDATA[Обжаренные хлебные гренки, подаются с сырным соусом с чесноком]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-619747776efc3.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-619747776efc3.jpg</picture>
                 <price>8.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535591</categoryId>
@@ -33,9 +31,7 @@
                 <description>
                     <![CDATA[Запеченные куриные крылышки, подаются с охотничьим соусом и перцем пепперони]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/1-6095305ec4d96.jpeg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/1-6095305ec4d96.jpeg</picture>
                 <price>14</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535591</categoryId>
@@ -46,9 +42,7 @@
                 <description>
                     <![CDATA[Свежие помидоры, огурцы, сладкий перец, редис, листья салата и лук]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/4-609530214d91f.jpeg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/4-609530214d91f.jpeg</picture>
                 <price>10.8</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535591</categoryId>
@@ -59,9 +53,7 @@
                 <description>
                     <![CDATA[Куриное филе, обжаренное в хрустящей панировке, копченые колбаски, луковые кольца и хлебные гренки с сыром и чесноком, подаются с пикантным соусом с зеленью и перцем Пепперони]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/21-9-650d72191f217.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/21-9-650d72191f217.jpg</picture>
                 <price>16.9</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535591</categoryId>
@@ -72,9 +64,7 @@
                 <description>
                     <![CDATA[Обжаренные баклажаны, цукини, сладкий перец, шампиньоны, помидор, лук и чеснок]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/1-60952f6a9752a.jpeg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/1-60952f6a9752a.jpeg</picture>
                 <price>14</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535591</categoryId>
@@ -85,9 +75,7 @@
                 <description>
                     <![CDATA[Маринованные: капуста, огурцы, помидор с чесноком, пряная морковь, опята, черемша, лук]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/2-60952fd3c4479.jpeg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/2-60952fd3c4479.jpeg</picture>
                 <price>13.5</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535591</categoryId>
@@ -98,9 +86,7 @@
                 <description>
                     <![CDATA[Жареная моцарелла в хрустящей панировке, подается со сладко-острым соусом]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16-9-6531233d699b1.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16-9-6531233d699b1.jpg</picture>
                 <price>11.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535591</categoryId>
@@ -112,9 +98,7 @@
                 <description>
                     <![CDATA[Отварной язык, морковь, картошка, маринованные огурцы, яйцо, сыр, заправленные заправкой с анчоусами, подаются с томатами черри, соусом из зелени, каперсами и ростками гороха]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-6425425300c1e.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-6425425300c1e.jpg</picture>
                 <price>16.8</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -125,9 +109,7 @@
                 <description>
                     <![CDATA[Ветчина, зеленый горошек, маринованные огурцы, картофель, морковь, заправленные майонезом, подаются с яйцом и ростками гороха]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642536d8bead0.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642536d8bead0.jpg</picture>
                 <price>10.6</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -138,9 +120,7 @@
                 <description>
                     <![CDATA[Обжаренное куриное филе, листья салата, помидоры, огурцы, гренки с травами, заправка с анчоусами]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642538e887521.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642538e887521.jpg</picture>
                 <price>14.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -151,9 +131,7 @@
                 <description>
                     <![CDATA[Обжаренное куриное филе, листья салата, помидоры, огурцы, гренки с травами, заправка с соусом из зелени]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-64253b2629992.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-64253b2629992.jpg</picture>
                 <price>14.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -164,9 +142,7 @@
                 <description>
                     <![CDATA[Обжаренный картофель, листья салата, помидоры, тунец, маринованные огурцы, яйцо, лук, заправленные майонезным соусом с французской горчицей и зеленью]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642540eba79ac.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642540eba79ac.jpg</picture>
                 <price>14.3</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -177,9 +153,7 @@
                 <description>
                     <![CDATA[Листья салата, помидоры, яблоко, сладкий перец, огурцы, редис, заправленные соусом из зелени, подаются с обжаренными семечками]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16-9-642bebfb5a308.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16-9-642bebfb5a308.jpg</picture>
                 <price>11.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -190,9 +164,7 @@
                 <description>
                     <![CDATA[Отварной язык, помидоры, листья салата, маринованные опята и огурцы, обжаренный бекон, соус из зелени]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-64253ff51a99e.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-64253ff51a99e.jpg</picture>
                 <price>15.6</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -203,9 +175,7 @@
                 <description>
                     <![CDATA[Отварной язык, помидоры, листья салата, маринованные опята и огурцы, обжаренный бекон, майонезный соус с хреном]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-64253d8cd598e.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-64253d8cd598e.jpg</picture>
                 <price>15.6</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535592</categoryId>
@@ -216,9 +186,7 @@
                 <description>
                     <![CDATA[Драники с мясом со шкварками и луком, сметаной и ростками гороха]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642538471334e.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642538471334e.jpg</picture>
                 <price>16.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535593</categoryId>
@@ -229,9 +197,7 @@
                 <description>
                     <![CDATA[Драники с гуляшом из говядины, с морковью, луком, томатами и чесноком]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-633eab23055bf.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-633eab23055bf.jpg</picture>
                 <price>19.8</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535593</categoryId>
@@ -242,9 +208,7 @@
                 <description>
                     <![CDATA[Драники]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-61974956c0014.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-61974956c0014.jpg</picture>
                 <price>8.9</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535593</categoryId>
@@ -255,9 +219,7 @@
                 <description>
                     <![CDATA[Драники с обжаренным куриным филе, сливочным соусом с боровиками, шампиньонами и луком, обжаренным беконом]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/1-6094fef2e274a.jpeg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/1-6094fef2e274a.jpeg</picture>
                 <price>17.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535593</categoryId>
@@ -268,9 +230,7 @@
                 <description>
                     <![CDATA[Драники с мачанкой на мясном бульоне, свиными ребрами, обжаренной колбаской со свининой и курицей, шкварками и луком]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16x9-657c02e70565d.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16x9-657c02e70565d.jpg</picture>
                 <price>18.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535593</categoryId>
@@ -281,9 +241,7 @@
                 <description>
                     <![CDATA[Драники с творожным соусом с маринованными огурцами и ломтиками слабосоленого лосося]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16-9-653123ba70742.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/16-9-653123ba70742.jpg</picture>
                 <price>15.1</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535593</categoryId>
@@ -294,9 +252,7 @@
                 <description>
                     <![CDATA[Драники с шампиньонами, вешенками и боровиками, тимьяном, луком и чесноком, со сливочным соусом и соусом демиглас]]>
                 </description>
-                <picture>
-                    https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642533cf6ea12.jpg
-                </picture>
+                <picture>https://cdn.delivio.by/be/uploads/media/cache/food_list_optimized/img/food/-642533cf6ea12.jpg</picture>
                 <price>15.2</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>663433535593</categoryId>
