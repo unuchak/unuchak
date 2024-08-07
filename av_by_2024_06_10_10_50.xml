@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2024-06-10 10:50">
+    <shop>
+        <name>bigrolls.xyz</name>
+        <company>Big rolls</company>
+        <url>http://bigrolls.xyz</url>
+        <platform>Tilda Publishing</platform>
+        <version>1.0</version>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="11622801">Alfa Romeo</category>
+            <category id="11622802">Audi</category>
+            <category id="11622803">BMW</category>
+            <category id="11622804">Chevrolet</category>
+            <category id="11622805">Chrysler</category>
+        </categories>
+        <offers>
+            <offer id="47800">
+                <name>Alfa Romeo 156 932 · 2-й рестайлинг</name>
+                <description>11 лет в одних руках. За автомобилем смотрели, ездила девушка. Двигатель и коробка в исправном состоянии. Родной пробег, два ключа. Подвеска не гремит.</description>
+                <picture>https://avcdn.av.by/advertmedium/0003/7433/9269.jpg</picture>
+                <price>12986</price>
+                <oldprice>13000</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>11622801</categoryId>
+                <barcode>47800</barcode>
+            </offer>
+            <offer id="47801">
+                <name>Alfa Romeo Giulietta 940</name>
+                <description>В продаже отличный итальянский автомобиль! Технически в идеальном состоянии, обслужен от а до я. Красивый цвет, панорамная крыша, шикарная грубая кожа</description>
+                <picture>https://avcdn.av.by/advertmedium/0003/5201/1241.jpg</picture>
+                <price>30916</price>
+                <oldprice>31000</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>11622801</categoryId>
+                <barcode>47801</barcode>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
